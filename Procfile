@@ -1,2 +1,2 @@
-worker: python3 -m VegetaRobot
-ps:scale worker=1
+web: python3 -m VegetaRobot
+ps:scale web=1
